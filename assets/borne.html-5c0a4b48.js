@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper-c27b6911.js";import{o,c as t,a as n}from"./app-9e438faa.js";const r={},c=n("p",null,"be borne by sb 由某人承担",-1),s=[c];function _(a,l){return o(),t("div",null,s)}const m=e(r,[["render",_],["__file","borne.html.vue"]]);export{m as default};

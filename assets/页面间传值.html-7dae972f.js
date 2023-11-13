@@ -1,0 +1,6 @@
+import{_ as e}from"./plugin-vue_export-helper-c27b6911.js";import{o as a,c as n,f as t}from"./app-9e438faa.js";const d={},s=t(`<h4 id="父页面到子页面" tabindex="-1"><a class="header-anchor" href="#父页面到子页面" aria-hidden="true">#</a> 父页面到子页面</h4><p>通过url A页面跳到B页面：A在写跳转到B的路径的时候可以加上自己页面上的数据跳过去（通过数据绑定和模板语法），那么跳转到了B页面之后B页面要怎么获取参数呢？</p><p>在onLoad函数里面有一个options参数，可以访问到这个页面的参数，我们以及将其打印出来看看都有一些什么，这里的问题在于：onLoad里面的options参数无法被其他的生命周期函数，如onReady访问到有，所以要先将options里面的值给传递到页面的data里面去，一般这个变量取名叫做<code>query</code></p><p>A页面跳转url的写法：<code>https://www.aaa.bbb?\${this.data.query.id}</code></p><h4 id="子页面向父页面" tabindex="-1"><a class="header-anchor" href="#子页面向父页面" aria-hidden="true">#</a> 子页面向父页面</h4><div class="language-text line-numbers-mode" data-ext="text"><pre class="language-text"><code>var pages = getCurrentPages() //获取当前页面堆栈
+var prePage = pages[pages.length-2] //获取上一个页面的对象
+prePage.setDats({
+	xxx: xxx   //修改上一个页面里的值
+})
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>通过页面栈获取一个其他页面的值改动，或者调用其他页面上的方法修改该页面的值</p>`,7),i=[s];function r(o,c){return a(),n("div",null,i)}const u=e(d,[["render",r],["__file","页面间传值.html.vue"]]);export{u as default};

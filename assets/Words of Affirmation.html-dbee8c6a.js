@@ -1,0 +1,1 @@
+import{_ as o}from"./plugin-vue_export-helper-c27b6911.js";import{o as e,c as t,a as r}from"./app-9e438faa.js";const _={},n=r("p",null,"肯定的言语 don't be too playful",-1),s=[n];function c(a,f){return e(),t("div",null,s)}const d=o(_,[["render",c],["__file","Words of Affirmation.html.vue"]]);export{d as default};

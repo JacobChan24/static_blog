@@ -1,0 +1,2 @@
+import{_ as n}from"./plugin-vue_export-helper-c27b6911.js";import{o as a,c as t,a as e}from"./app-9e438faa.js";const s={},l=e("div",{class:"language-terminal line-numbers-mode","data-ext":"terminal"},[e("pre",{class:"language-terminal"},[e("code",null,`npm install --save jsonwebtoken
+`)]),e("div",{class:"line-numbers","aria-hidden":"true"},[e("div",{class:"line-number"})])],-1),o=[l];function r(c,i){return a(),t("div",null,o)}const d=n(s,[["render",r],["__file","JWT token教程.html.vue"]]);export{d as default};

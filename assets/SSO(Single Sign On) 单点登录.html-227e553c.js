@@ -1,0 +1,1 @@
+import{_}from"./plugin-vue_export-helper-c27b6911.js";import{o as e,c as n}from"./app-9e438faa.js";const t={};function c(o,r){return e(),n("div")}const s=_(t,[["render",c],["__file","SSO(Single Sign On) 单点登录.html.vue"]]);export{s as default};

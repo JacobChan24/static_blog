@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper-c27b6911.js";import{o,c as t,a as s}from"./app-9e438faa.js";const l={},c=s("p",null,"股市术语。某只股票短时间内被大量甩卖，又进而导致价格大幅降低的过程就叫selloff「抛售」。",-1),_=[c];function f(n,r){return o(),t("div",null,_)}const m=e(l,[["render",f],["__file","selloff.html.vue"]]);export{m as default};

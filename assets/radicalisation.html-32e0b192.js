@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper-c27b6911.js";import{o as t,c as o,a}from"./app-9e438faa.js";const c={},s=a("p",null,"激进",-1),n=[s];function r(_,i){return t(),o("div",null,n)}const f=e(c,[["render",r],["__file","radicalisation.html.vue"]]);export{f as default};

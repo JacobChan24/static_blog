@@ -1,0 +1,1 @@
+import{_}from"./plugin-vue_export-helper-c27b6911.js";import{o as e,c as t}from"./app-9e438faa.js";const o={};function r(c,n){return e(),t("div")}const a=_(o,[["render",r],["__file","prototype -- 给对象添加属性或者方法.html.vue"]]);export{a as default};

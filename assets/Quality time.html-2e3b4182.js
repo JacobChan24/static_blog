@@ -1,0 +1,1 @@
+import{_ as t}from"./plugin-vue_export-helper-c27b6911.js";import{o as e,c as o,a as n}from"./app-9e438faa.js";const i={},c=n("p",null,"give full undivided attention no distractions!",-1),s=[c];function _(a,l){return e(),o("div",null,s)}const m=t(i,[["render",_],["__file","Quality time.html.vue"]]);export{m as default};

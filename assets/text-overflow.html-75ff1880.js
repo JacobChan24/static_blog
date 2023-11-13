@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper-c27b6911.js";import{o,c as t,a as r}from"./app-9e438faa.js";const c={},_=r("p",null,"与overflow属性不一样，这个属性专门处理文本内容溢出容器时的表现",-1),s=[_];function l(n,a){return o(),t("div",null,s)}const m=e(c,[["render",l],["__file","text-overflow.html.vue"]]);export{m as default};

@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper-c27b6911.js";import{o as t,c as _,a as o}from"./app-9e438faa.js";const c={},n=o("p",null,"在对象编辑的模式里面才有颜料桶功能(paint bucket)",-1),s=[n];function r(a,l){return t(),_("div",null,s)}const m=e(c,[["render",r],["__file","颜料桶.html.vue"]]);export{m as default};

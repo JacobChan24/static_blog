@@ -1,0 +1,1 @@
+import{_ as o}from"./plugin-vue_export-helper-c27b6911.js";import{o as a,c,a as e,b as t}from"./app-9e438faa.js";const r={},s=e("p",null,[t("[ˈflæsɪd] (formal) 软弱的；松弛的；不结实的"),e("br"),t(" soft and weak; not firm and hard")],-1),n=[s];function _(l,d){return a(),c("div",null,n)}const m=o(r,[["render",_],["__file","flaccid.html.vue"]]);export{m as default};

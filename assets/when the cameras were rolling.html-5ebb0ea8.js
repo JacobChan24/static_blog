@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper-c27b6911.js";import{o,c as r,a as t}from"./app-9e438faa.js";const _={},c=t("p",null,"roll 表示摄像机开启 这里是一种比喻的说法，当摄像机打开的时候即比喻在镜头前",-1),n=[c];function l(s,a){return o(),r("div",null,n)}const h=e(_,[["render",l],["__file","when the cameras were rolling.html.vue"]]);export{h as default};

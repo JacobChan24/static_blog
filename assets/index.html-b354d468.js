@@ -1,0 +1,1 @@
+import{_ as o}from"./plugin-vue_export-helper-c27b6911.js";import{r as t,o as a,c,e as n,a as s,d as r}from"./app-9e438faa.js";const _={},l={class:"catalog-display-container"};function d(i,m){const e=t("AutoCatalog");return a(),c("div",null,[n(" 用于限制高度 "),s("div",l,[r(e,{base:"/product/Figma"})])])}const u=o(_,[["render",d],["__file","index.html.vue"]]);export{u as default};

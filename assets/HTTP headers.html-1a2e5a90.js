@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper-c27b6911.js";import{o as t,c as o,a as s}from"./app-9e438faa.js";const _={},c=s("p",null,"使得整个http协议可拓展，只要客户端和服务端就语义达成一致，双方就可以通讯",-1),r=[c];function a(n,l){return t(),o("div",null,r)}const h=e(_,[["render",a],["__file","HTTP headers.html.vue"]]);export{h as default};

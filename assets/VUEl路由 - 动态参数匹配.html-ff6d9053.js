@@ -1,0 +1,6 @@
+import{_ as e}from"./plugin-vue_export-helper-c27b6911.js";import{o as d,c as t,f as i}from"./app-9e438faa.js";const a={},r=i(`<h4 id="keywords" tabindex="-1"><a class="header-anchor" href="#keywords" aria-hidden="true">#</a> keywords</h4><p>动态路由匹配，路由参数</p><h3 id="场景" tabindex="-1"><a class="header-anchor" href="#场景" aria-hidden="true">#</a> 场景</h3><p>有时候，我们需要将给定匹配模式的路由映射到同一个组件中，比如/product/xxx/edit代表的是产品的编辑页面，中间的部分是动态可变化的，代表不同产品的id，在vue-router中，我们可以使用一个和动态的路径参数来实现这一功能：</p><div class="language-text line-numbers-mode" data-ext="text"><pre class="language-text"><code>const route = [
+	{
+		path:&quot;/product/:id/edit&quot; //中间的:id部分即为动态参数
+	}
+]
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>参数的部分在每个组件实例中会以<code>this.$route.params</code>的形式暴露出来，所以若我们跳转到了某产品的编辑界面(/product/123/edit)，我们可以这样访问到参数： <code>this.$route.params.id</code> 拿到id之后，我们可以根据产品id去查询产品详情，然后将信息渲染在组件上面 In fact，这就是url传参的原理</p>`,6),s=[r];function n(c,o){return d(),t("div",null,s)}const _=e(a,[["render",n],["__file","VUEl路由 - 动态参数匹配.html.vue"]]);export{_ as default};

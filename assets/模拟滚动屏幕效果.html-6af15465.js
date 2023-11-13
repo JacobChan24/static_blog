@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper-c27b6911.js";import{o as _,c as t,a as o}from"./app-9e438faa.js";const c={},r=o("p",null,"一些元素可以固定位置，比如header，另外的元素在prototype中设置滚动",-1),s=[r];function n(a,l){return _(),t("div",null,s)}const i=e(c,[["render",n],["__file","模拟滚动屏幕效果.html.vue"]]);export{i as default};

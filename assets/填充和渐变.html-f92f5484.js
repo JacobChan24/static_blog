@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper-c27b6911.js";import{o as _,c as t,a as o}from"./app-9e438faa.js";const c={},s=o("p",null,"在元素的填充里面可以进行渐变设置 角度渐变、菱形渐变、径向渐变等等",-1),n=[s];function r(a,l){return _(),t("div",null,n)}const m=e(c,[["render",r],["__file","填充和渐变.html.vue"]]);export{m as default};

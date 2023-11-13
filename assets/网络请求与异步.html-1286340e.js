@@ -1,0 +1,1 @@
+import{_}from"./plugin-vue_export-helper-c27b6911.js";import{o as e,c as t,a as o}from"./app-9e438faa.js";const c={},s=o("p",null,"在javascript中，网络请求都是异步的，意思是一行代码负责发起网络请求之后，js不会管请求是否有返回而开始执行下一行代码",-1),r=[s];function a(n,l){return e(),t("div",null,r)}const m=_(c,[["render",a],["__file","网络请求与异步.html.vue"]]);export{m as default};

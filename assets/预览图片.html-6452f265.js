@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper-c27b6911.js";import{o as t,c as _,a as o}from"./app-9e438faa.js";const r={},c=o("p",null,"用for循环批量渲染图片之后，用接口preview图片 需要将目前图片的url存到自定义data属性里面，否则image组件的tap事件里面是无法拿到src属性的",-1),a=[c];function s(n,l){return t(),_("div",null,a)}const m=e(r,[["render",s],["__file","预览图片.html.vue"]]);export{m as default};

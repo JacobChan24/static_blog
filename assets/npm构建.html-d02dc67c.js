@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper-c27b6911.js";import{o as t,c as n,a as o}from"./app-9e438faa.js";const _={},c=o("p",null,"小程序下载好npm包之后，还需要手动构建npm包才能使用",-1),s=[c];function r(a,m){return t(),n("div",null,s)}const f=e(_,[["render",r],["__file","npm构建.html.vue"]]);export{f as default};

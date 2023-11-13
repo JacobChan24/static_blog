@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper-c27b6911.js";import{o as t,c as n,a as o}from"./app-9e438faa.js";const r={},_=o("p",null,"跟number对象 VS number类型的变量不一样，JS中，字符串类型的变量和字符串对象之间可以自由转换，都可以使用字符串对象中提供的方法和属性",-1),c=[_];function s(a,l){return t(),n("div",null,c)}const f=e(r,[["render",s],["__file","String对象.html.vue"]]);export{f as default};

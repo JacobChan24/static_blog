@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper-c27b6911.js";import{o as t,c,a as o}from"./app-9e438faa.js";const s={},_=o("p",null,"这个元素是用来设置处理元素内容中的空白",-1),a=[_];function n(r,l){return t(),c("div",null,a)}const m=e(s,[["render",n],["__file","white-space.html.vue"]]);export{m as default};

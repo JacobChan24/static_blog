@@ -1,0 +1,1 @@
+import{_}from"./plugin-vue_export-helper-c27b6911.js";import{o as e,c as t,a as o}from"./app-9e438faa.js";const s={},c=o("p",null,"hotfix发布之后，本地应该先更新master分支的代码，然后切换到本地的dev分支，合并master分支的代码，解决可能的冲突之后，在线上稳定的版本的基础上再进行新功能的开发",-1),r=[c];function a(n,f){return e(),t("div",null,r)}const m=_(s,[["render",a],["__file","场景：开发新功能时线上发了hotfix.html.vue"]]);export{m as default};

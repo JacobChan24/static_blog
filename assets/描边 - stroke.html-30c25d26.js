@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper-c27b6911.js";import{o,c as t,a as _}from"./app-9e438faa.js";const r={},s=_("p",null,"相当于设置边框的粗细大小，但是还可以设置图片或者视频来进行边框填充等等，功能非常强大 支持HTML里面所有针对border的属性设置",-1),c=[s];function n(a,l){return o(),t("div",null,c)}const i=e(r,[["render",n],["__file","描边 - stroke.html.vue"]]);export{i as default};

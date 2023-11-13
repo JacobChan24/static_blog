@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper-c27b6911.js";import{o as t,c as s,a as o}from"./app-9e438faa.js";const c={},n=o("p",null,"指一张表或者一张表上面的一项",-1),_=[n];function r(l,a){return t(),s("div",null,_)}const m=e(c,[["render",r],["__file","listings.html.vue"]]);export{m as default};

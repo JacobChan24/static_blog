@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper-c27b6911.js";import{o as t,c as o,a as c}from"./app-9e438faa.js";const _={},s=c("p",null,"秃头的，赤裸的",-1),a=[s];function n(r,l){return t(),o("div",null,a)}const i=e(_,[["render",n],["__file","bald.html.vue"]]);export{i as default};

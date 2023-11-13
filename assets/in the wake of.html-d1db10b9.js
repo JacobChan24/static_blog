@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper-c27b6911.js";import{o as t,c as o,a as _}from"./app-9e438faa.js";const c={},n=_("p",null,"在……之后",-1),s=[n];function a(r,l){return t(),o("div",null,s)}const m=e(c,[["render",a],["__file","in the wake of.html.vue"]]);export{m as default};

@@ -1,0 +1,1 @@
+import{_ as t}from"./plugin-vue_export-helper-c27b6911.js";import{o as e,c as _,a as o}from"./app-9e438faa.js";const c={},s=o("p",null,"VUE.js内置了对发送http请求的支持，只需要在对应页面的script标签内加上对应的代码就可以了",-1),r=[s];function n(a,l){return e(),_("div",null,r)}const f=t(c,[["render",n],["__file","VUE中发送http请求.html.vue"]]);export{f as default};

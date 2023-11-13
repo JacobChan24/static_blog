@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper-c27b6911.js";import{o as _,c as t,a as o}from"./app-9e438faa.js";const c={},s=o("p",null,"![[Pasted image 20220523165221.png]]",-1),n=[s];function a(r,l){return _(),t("div",null,n)}const m=e(c,[["render",a],["__file","flex能实现的常用的布局.html.vue"]]);export{m as default};

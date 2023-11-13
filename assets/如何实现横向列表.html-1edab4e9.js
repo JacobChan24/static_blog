@@ -1,0 +1,1 @@
+import{_}from"./plugin-vue_export-helper-c27b6911.js";import{o as e,c as t,a as o}from"./app-9e438faa.js";const c={},n=o("p",null,"很简单，将li元素的display属性设置为inline就行了",-1),s=[n];function l(r,a){return e(),t("div",null,s)}const f=_(c,[["render",l],["__file","如何实现横向列表.html.vue"]]);export{f as default};

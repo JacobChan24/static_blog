@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper-c27b6911.js";import{o as s,c as t,a as c}from"./app-9e438faa.js";const o={},r=c("p",null,"[suːˈpreməsɪst] 种族优越论者 white supremacist 白人至上主义者",-1),_=[r];function a(n,i){return s(),t("div",null,_)}const p=e(o,[["render",a],["__file","supremacist.html.vue"]]);export{p as default};

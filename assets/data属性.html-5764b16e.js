@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper-c27b6911.js";import{o as t,c as o,a}from"./app-9e438faa.js";const _={},c=a("p",null,"自定义属性，将组件上的数据传到js层面，常常和for循环一起使用 data-自定义属性名",-1),s=[c];function r(n,l){return t(),o("div",null,s)}const i=e(_,[["render",r],["__file","data属性.html.vue"]]);export{i as default};

@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper-c27b6911.js";import{o,c as t,a as _}from"./app-9e438faa.js";const l={},n=_("ol",null,[_("li",null,"CSS表格布局")],-1),s=_("p",null,"在外层多套一层容器，使用负边距 3. Flexbox",-1),c=_("p",null,"flex布局的子元素默认等高",-1),r=[n,s,c];function a(i,d){return o(),t("div",null,r)}const m=e(l,[["render",a],["__file","实现等高列的方式.html.vue"]]);export{m as default};

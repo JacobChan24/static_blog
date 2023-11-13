@@ -1,0 +1,11 @@
+import{_ as e}from"./plugin-vue_export-helper-c27b6911.js";import{o as d,c as a,f as i}from"./app-9e438faa.js";const r={},s=i(`<p>为什么需要模块化编程呢？ 避免代码重复以及其带来的维护成本过高</p><h3 id="导入模块" tabindex="-1"><a class="header-anchor" href="#导入模块" aria-hidden="true">#</a> 导入模块</h3><p><code>require(&#39;路径&#39;)</code> require会读取参数里面的路径，返回一个object，即特定路径文件中对外开放的功能，如果指定的文件没有对外开放任何功能(js不会自动暴露函数)，则require会返回一个空的对象<code>{}</code></p><h3 id="导出模块" tabindex="-1"><a class="header-anchor" href="#导出模块" aria-hidden="true">#</a> 导出模块</h3><p><code>module.export</code></p><ul><li>单个函数导出 <code>module.exports.add = add</code> 输出此文件中的add函数</li></ul><p>也可以省略module，写成： <code>exports.add = add</code></p><ul><li>多个函数导出</li></ul><div class="language-text line-numbers-mode" data-ext="text"><pre class="language-text"><code>module.exports = {
+	add: add,
+	substract: substract
+}
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>如果键值对是一样的value，还可以精简一下：</p><div class="language-text line-numbers-mode" data-ext="text"><pre class="language-text"><code>module.exports = {
+	add, substract
+}
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>如果整个模块都是需要导出的话，就可以将所有代码都写在导出语句里面：</p><div class="language-text line-numbers-mode" data-ext="text"><pre class="language-text"><code>module.exports = {
+	所有代码
+}
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h3 id="代码重构思路" tabindex="-1"><a class="header-anchor" href="#代码重构思路" aria-hidden="true">#</a> 代码重构思路</h3><h6 id="服务器代码重构" tabindex="-1"><a class="header-anchor" href="#服务器代码重构" aria-hidden="true">#</a> 服务器代码重构</h6><p>最外层的代码文件为<code>app.js</code> 将服务器代码封装到一个<code>server.js</code>中，且将服务器代码封装到一个函数当中，并且将这个函数导出供<code>app.js</code>调用</p><h6 id="路由代码重构" tabindex="-1"><a class="header-anchor" href="#路由代码重构" aria-hidden="true">#</a> 路由代码重构</h6><p>写一个<code>router.js</code>写路由代码，导入<code>app.js</code>中，注意参数的传递</p>`,18),n=[s];function c(t,l){return d(),a("div",null,n)}const p=e(r,[["render",c],["__file","05 模块化编程.html.vue"]]);export{p as default};

@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper-c27b6911.js";import{o as _,c as t,a as o}from"./app-9e438faa.js";const c={},s=o("p",null,"选中几个元素，然后点击整理 可以统一调节间距、统一对齐、拖拽改变元素(点击元素圆点)顺序等等，非常方便",-1),n=[s];function r(a,l){return _(),t("div",null,n)}const m=e(c,[["render",r],["__file","整理功能.html.vue"]]);export{m as default};

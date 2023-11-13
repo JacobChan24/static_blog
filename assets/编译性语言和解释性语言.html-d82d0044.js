@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper-c27b6911.js";import{o,c as t,a as _}from"./app-9e438faa.js";const l={},n=_("p",null,"翻译器将高级编程语言翻译给计算机有两种方式：",-1),c=_("ol",null,[_("li",null,"编译：代码执行之前进行编译，生成代码中间文件"),_("li",null,"解释：一边解释一边执行")],-1),s=[n,c];function r(a,i){return o(),t("div",null,s)}const f=e(l,[["render",r],["__file","编译性语言和解释性语言.html.vue"]]);export{f as default};

@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper-c27b6911.js";import{o,c as t,a as n}from"./app-9e438faa.js";const c={},s=n("p",null,"NPM是一个node.js的包管理器",-1),_=[s];function r(a,l){return o(),t("div",null,_)}const f=e(c,[["render",r],["__file","index.html.vue"]]);export{f as default};

@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper-c27b6911.js";import{o as t,c as _,a as o}from"./app-9e438faa.js";const r={},c=o("p",null,"这个关键字的用处： 终止函数的执行并返回一个值，可以不返回一个值，直接用于终止函数的执行",-1),n=[c];function s(a,l){return t(),_("div",null,n)}const m=e(r,[["render",s],["__file","return 用法.html.vue"]]);export{m as default};

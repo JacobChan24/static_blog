@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper-c27b6911.js";import{o as t,c as o,a as n}from"./app-9e438faa.js";const _={},c=n("p",null,"下架什么服务就可以用take down",-1),a=[c];function s(r,l){return t(),o("div",null,a)}const i=e(_,[["render",s],["__file","taken down.html.vue"]]);export{i as default};

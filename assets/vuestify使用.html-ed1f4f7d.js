@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper-c27b6911.js";import{o as t,c as _}from"./app-9e438faa.js";const c={};function o(r,s){return t(),_("div")}const a=e(c,[["render",o],["__file","vuestify使用.html.vue"]]);export{a as default};

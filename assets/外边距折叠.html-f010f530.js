@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper-c27b6911.js";import{o as _,c as t,a as o}from"./app-9e438faa.js";const c={},s=o("p",null,"如果两个垂直外边距，会发生折叠现象，平行的不会以最大值为准，避免方式就是只给一个盒子设置外边距即可",-1),n=[s];function r(a,l){return _(),t("div",null,n)}const m=e(c,[["render",r],["__file","外边距折叠.html.vue"]]);export{m as default};

@@ -1,0 +1,6 @@
+import{_ as e}from"./plugin-vue_export-helper-c27b6911.js";import{o as i,c as n,f as l}from"./app-9e438faa.js";const t={},d=l(`<ol><li>字面量 <code>var obj = {}</code></li><li>New 关键字 <code>var obj = new Object({})</code></li><li>构造函数 与new关键字一起使用 为什么需要用构造函数来创建对象呢？</li></ol><p>因为之前的两种方式一次只能创建一个对象，用构造函数的方式可以克服这个缺点，可以用构造函数批量创建有相同的方法和属性的对象</p><p>构造函数里面不需要<code>return</code>就可以返回一个对象</p><p>属性和方法前面必需加<code>this</code></p><p>实例：</p><ul><li>声明：</li></ul><div class="language-text line-numbers-mode" data-ext="text"><pre class="language-text"><code>function 构造函数名(){ //第一个字母大写
+	this.属性 = 值
+	this.方法 = function(){}
+}
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><ul><li>调用</li></ul><div class="language-text line-numbers-mode" data-ext="text"><pre class="language-text"><code>var obj = new 构造函数名()
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><p>ES6里面可以用类的方法同样实现这种方式</p>`,10),c=[d];function s(a,o){return i(),n("div",null,c)}const _=e(t,[["render",s],["__file","创建对象的三种方式.html.vue"]]);export{_ as default};

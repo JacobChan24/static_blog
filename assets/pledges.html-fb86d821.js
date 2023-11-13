@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper-c27b6911.js";import{o as t,c as o,a as s}from"./app-9e438faa.js";const c={},_=s("p",null,"保证，诺言",-1),n=[_];function r(l,a){return t(),o("div",null,n)}const i=e(c,[["render",r],["__file","pledges.html.vue"]]);export{i as default};

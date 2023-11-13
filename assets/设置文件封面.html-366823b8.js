@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper-c27b6911.js";import{o as _,c as t,a as o}from"./app-9e438faa.js";const c={},r=o("p",null,"选中一个frame，然后右键点击选为封面即可",-1),s=[r];function n(a,l){return _(),t("div",null,s)}const i=e(c,[["render",n],["__file","设置文件封面.html.vue"]]);export{i as default};
